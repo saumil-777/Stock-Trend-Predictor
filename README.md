@@ -77,7 +77,7 @@ This app enables users to visualize past stock trends, analyze moving averages, 
 ![Chart](https://github.com/saumil-777/Stock-Trend-Predictor/blob/09cb87a89d7b5e12a0d95eb2f6aa001e54e60bc8/Screenshot%202025-05-26%20013452.png)
 
 ### 🔹 Moving Averages Chart
-![MA Chart]("C:\Users\singh\OneDrive - vitbhopal.ac.in\Desktop\screenshots\Screenshot 2025-05-26 013452.png")
+![MA Chart](https://github.com/saumil-777/Stock-Trend-Predictor/blob/23e9118382146d910f9c180292fe0f02e2d6dd20/Screenshot%202025-05-26%20013504.png)
 
 ### 🔹 Prediction Graph (Original vs Predicted)
 ![Prediction Graph]("C:\Users\singh\OneDrive - vitbhopal.ac.in\Desktop\screenshots\Screenshot 2025-05-26 013513.png")
