@@ -1,6 +1,99 @@
-# Stock-Trend-Predictor
-This project is a Streamlit-based web application designed to predict stock market trends using historical stock price data. It leverages a pre-trained Long Short-Term Memory (LSTM) model built using Keras to analyze patterns in closing prices and generate predictions.
+# 📈 Stock Trend Predictor (Basic Version)
 
-The application fetches real-time stock data using the yFinance API, processes it using pandas and NumPy, and visualizes trends through matplotlib plots. Users can enter any stock ticker (e.g., AAPL for Apple) and view historical price data, moving averages, and the model's predictions, all in an interactive web interface.
+A beginner-friendly Streamlit-based web application that predicts stock market trends using historical price data and a pre-trained LSTM (Long Short-Term Memory) model.
 
-This tool is useful for anyone interested in understanding market behavior, exploring time-series predictions, or building finance-related ML apps. It serves as a beginner-friendly example of combining machine learning, data visualization, and web deployment using Python.
+This app enables users to visualize past stock trends, analyze moving averages, and view predictions — all through a clean and interactive interface. It’s an excellent demonstration of combining machine learning, financial data, and web deployment using Python.
+
+---
+
+## 🚀 Features
+
+* 🔎 Input any stock ticker symbol (e.g., `AAPL`, `MSFT`, `GOOGL`)
+* 📊 Visualize historical **closing prices** from 2010 to present
+* 📈 Plot 100-day and 200-day **moving averages**
+* 🤖 Predict future price trends using a pre-trained **LSTM model**
+* 🌐 Simple, interactive **web UI powered by Streamlit**
+
+---
+
+## ⚙️ How It Works
+
+1. Takes user input for a stock ticker symbol.
+2. Fetches real-time data using the `yfinance` API.
+3. Visualizes historical trends with `matplotlib`.
+4. Uses a trained LSTM model (`keras_model.h5`) to predict future stock prices based on recent data.
+5. Displays a comparison of **actual vs. predicted prices**.
+
+---
+
+## 🧰 Tech Stack
+
+* Python 🐍
+* Streamlit
+* Keras (TensorFlow backend)
+* NumPy & Pandas
+* yFinance
+* Matplotlib
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone this repository:**
+
+   ```bash
+   git clone https://github.com/saumil-777/stock-trend-predictor-basic.git
+   cd stock-trend-predictor-basic
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   *(If you don’t have a `requirements.txt`, manually install: `streamlit`, `keras`, `pandas`, `numpy`, `matplotlib`, `yfinance`)*
+
+3. **Run the app:**
+
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **Model file:**
+
+   Make sure `keras_model.h5` is present in the same folder as `app.py`.
+
+---
+
+## 🖼️ Screenshot
+
+![Basic UI Screenshot](relative/path/to/your/screenshot.png)
+*Sample output of the stock trend visualization and prediction*
+
+---
+
+## 💡 Use Cases
+
+* Learn basics of time series forecasting with LSTM
+* Visualize trends and understand stock behavior
+* Great for students, beginners, or finance enthusiasts
+* Serve as a base template for more complex ML-based financial tools
+
+---
+
+## 🙏 Credits & Acknowledgements
+
+* LSTM implementation inspired by various open-source tutorials
+* Financial data sourced using the excellent [`yfinance`](https://github.com/ranaroussi/yfinance) library
+* UI built with [Streamlit](https://streamlit.io/)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Let me know if you'd like a separate README for the **improved UI version** too!
