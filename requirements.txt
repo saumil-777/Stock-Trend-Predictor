@@ -1,4 +1,4 @@
-Python 🐍
+
 Streamlit
 Keras (TensorFlow backend)
 NumPy & Pandas
