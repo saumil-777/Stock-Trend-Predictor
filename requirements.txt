@@ -1,6 +1,8 @@
-
-Streamlit
-Keras (TensorFlow backend)
-NumPy & Pandas
-yFinance
-Matplotlib
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+keras
+yfinance
