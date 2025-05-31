@@ -70,23 +70,15 @@ This app enables users to visualize past stock trends, analyze moving averages, 
 
 ## 📸 Screenshots
 
-### 🔹 Homepage
-![Homepage](screenshots/homepage.png)
-
 ### 🔹 Stock Input Section
-![Input Section](screenshots/input_section.png)
+![Input Section]("C:\Users\singh\OneDrive - vitbhopal.ac.in\Desktop\screenshots\Screenshot 2025-05-26 013437.png")
 
 ### 🔹 Moving Averages Chart
-![MA Chart](screenshots/ma_chart.png)
+![MA Chart]("C:\Users\singh\OneDrive - vitbhopal.ac.in\Desktop\screenshots\Screenshot 2025-05-26 013452.png")
 
 ### 🔹 Prediction Graph (Original vs Predicted)
-![Prediction Graph](screenshots/prediction_graph.png)
+![Prediction Graph]("C:\Users\singh\OneDrive - vitbhopal.ac.in\Desktop\screenshots\Screenshot 2025-05-26 013513.png")
 
-### 🔹 Error Handling (Invalid Ticker)
-![Error Handling](screenshots/error_handling.png)
-
-### 🔹 Final Output
-![Final Output](screenshots/final_output.png)
 
 ---
 
