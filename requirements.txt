@@ -6,3 +6,5 @@ matplotlib
 yfinance
 scikit-learn
 streamlit
+pandas_datareader
+
