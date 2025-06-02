@@ -100,12 +100,3 @@ This app enables users to visualize past stock trends, analyze moving averages, 
 * Financial data sourced using the excellent [`yfinance`](https://github.com/ranaroussi/yfinance) library
 * UI built with [Streamlit](https://streamlit.io/)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like a separate README for the **improved UI version** too!
