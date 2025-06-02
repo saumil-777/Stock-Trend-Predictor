@@ -63,7 +63,9 @@ This app enables users to visualize past stock trends, analyze moving averages, 
 4. **Model file:**
 
    Make sure `keras_model.h5` is present in the same folder as `app.py`.
-
+   
+---
+###Live Deployment Link: https://stock-trend-predictor-xmmoyvaxujatwxe8jty8tm.streamlit.app/   
 ---
 
 ## 🖼️ Screenshots
