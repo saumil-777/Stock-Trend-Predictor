@@ -37,7 +37,7 @@ This app enables users to visualize past stock trends, analyze moving averages, 
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions 
 
 1. **Clone this repository:**
 
