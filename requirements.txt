@@ -4,5 +4,7 @@ numpy
 matplotlib
 scikit-learn
 keras
+tensorflow
 yfinance
 pandas_datareader
+
